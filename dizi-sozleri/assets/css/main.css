@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto" ;
+}
+
+a{
+    text-decoration: none;
+}
+html {
+    scroll-padding-top: 64px;
+    scroll-behavior: smooth;
+}
+
+.blog-breadcrumb {
+    display: inline-block;
+    text-align: left;
+    font-weight: 300;
+}
+
+.blog-breadcrumb > li {
+    display: inline;
+}
